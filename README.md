@@ -8,7 +8,7 @@
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
-<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
+<img width="40%" align="right" alt="Github Header" src="file:///C:/Users/Admin/Downloads/git-header.svg" />
 <p>
   
 - Computer Science & Engineering - 3rd year @ euromed university fes. 🎓
