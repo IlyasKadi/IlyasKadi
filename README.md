@@ -29,7 +29,7 @@
 
 <h3 align="left">Interests:</h3>
 
-- cyber security 📊
+- cyber security 🔐
 - Data Structures And Algorithms 💻
 - Database 
 
