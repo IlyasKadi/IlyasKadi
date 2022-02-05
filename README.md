@@ -69,34 +69,6 @@
   
 ## &#x1f4c8; My GitHub Stats🎯
  
-<h3 align="left">Profile Views: 🧐</h3>
-  
-![Profile views](https://gpvc.arturio.dev/avinash-218)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=avinash-218&theme=chartreuse-dark&no-frame=true" /></p>
-</details>
-
-  
-<details><summary>Trophies</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=avinash-218&column=7&theme=gruvbox&no-frame=true"/>
-</details>
-  
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avinash-218&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=chartreuse-dark" />
-</p>  
-
-<a href="https://gitstalk.netlify.app/avinash-218/" target="_blank"> See My Latest Activities Here</a>
-  
-
-<img src ="Images/social_dashboard.svg" align = "left" width = 50%>
-<div>
 <h2  > Connect with me</h2>
   
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/avinash-r-2113741b1)
