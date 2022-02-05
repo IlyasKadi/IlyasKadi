@@ -35,10 +35,6 @@
 - Data Structures And Algorithms 💻
 - Database 
 
-<h3 align="left">Languages:</h3>
-
-- English 🔤
-- Tamil
 
 <br><br>
 
