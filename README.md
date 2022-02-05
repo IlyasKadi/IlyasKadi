@@ -25,7 +25,7 @@
 <div align="center">
 
 ## **Scan Me**
-<a href="![ilyas](https://user-images.githubusercontent.com/80456274/152642237-2fa1af86-0dd2-4f7d-b3e1-98240d69beb6.png)/"><img src="![ilyas](https://user-images.githubusercontent.com/80456274/152642210-e125c718-f35d-4c45-a2e4-27cfc0adc59d.png)" width="200" height="200" alt="WebsiteQR"></a>
+<a href="https://user-images.githubusercontent.com/80456274/152642237-2fa1af86-0dd2-4f7d-b3e1-98240d69beb6.png"><img src="![ilyas](https://user-images.githubusercontent.com/80456274/152642210-e125c718-f35d-4c45-a2e4-27cfc0adc59d.png)" width="200" height="200" alt="WebsiteQR"></a>
 </div>
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
