@@ -54,7 +54,7 @@
 
   
 ## **Badges🥇**<br>
-<img src="Badges/" alt="" width="60" height="60">
+<img src="Badges/NDG.jfif" alt="" width="60" height="60">
 <img src="Badges/" alt="" width="60" height="60">
 <img src="Badges/" alt="" width="60" height="60">
   
