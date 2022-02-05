@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Ilyas<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
+<h3 align="center">Hacking Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
 ## Dynamic Quotes 📜:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
@@ -9,22 +9,23 @@
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
 <img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
-
 <p>
   
 - Computer Science & Engineering - 3rd year @ euromed university fes. 🎓
-- Currently working with <a href="https://www.qt.io//" target="_black">Qt Creator</a>. 🏥
+- Currently working with <a href="https://www.qt.io//" target="_black">Qt Creator</a>.
 - Looking for opportunities and collaborations in the field of cyber security. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
+  
 -->
 - Planning to Blog in the near future. 📝
 -->
+  
 </p>
 
 <div align="center">
 
 ## **Scan Me**
-<a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/.png" width="200" height="200" alt="WebsiteQR"></a>
+<a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="![ilyas](https://user-images.githubusercontent.com/80456274/152642210-e125c718-f35d-4c45-a2e4-27cfc0adc59d.png)" width="200" height="200" alt="WebsiteQR"></a>
 </div>
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
