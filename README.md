@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Ilyas<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
@@ -12,24 +12,26 @@
 
 <p>
   
-- Computer Science & Engineering - 3rd year @ Mepco Schlenk Engineering College. 🎓
-- Currently working with <a href="https://www.deepsphere.ai/" target="_black">DeepSphere.AI</a> as a Data Science Intern. 🏥
-- Looking for opportunities and collaborations in the field of data science. ✅
+- Computer Science & Engineering - 3rd year @ euromed university fes. 🎓
+- Currently working with <a href="https://www.qt.io//" target="_black">Qt Creator</a>. 🏥
+- Looking for opportunities and collaborations in the field of cyber security. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
+-->
 - Planning to Blog in the near future. 📝
+-->
 </p>
 
 <div align="center">
 
 ## **Scan Me**
-<a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
+<a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/.png" width="200" height="200" alt="WebsiteQR"></a>
 </div>
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
 
 <h3 align="left">Interests:</h3>
 
-- Data Science 📊
+- cyber security 📊
 - Data Structures And Algorithms 💻
 - Database 
 
