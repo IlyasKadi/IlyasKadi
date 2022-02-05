@@ -59,11 +59,13 @@
 <img src="Badges/" alt="" width="60" height="60">
   
 # Achievements :
-  /*
+  <--
+   
   - 58th Rank in Hexaware Data Science Engineer Challenge - TechGig
   - Eligible for Seed-Funding from Mepco Schlenk Engineering College
   - Got selected to meet-up with Angel Investors.
- */
+      
+ -->
   
 ## &#x1f4c8; My GitHub Stats🎯
  
