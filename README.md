@@ -13,7 +13,7 @@
   
 - Computer Science & Engineering - 3rd year @ euromed university fes. 🎓
 - Currently working with <a href="https://www.qt.io//" target="_black">Qt Creator</a>.
-- Looking for opportunities and collaborations in the field of cyber security. ✅
+- Looking for opportunities and collaborations in the field of cyber security.✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
  
   
