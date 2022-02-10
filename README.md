@@ -12,7 +12,7 @@
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
-<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
+
 <p>
   
 - Computer Science & Engineering - 3rd year @ euromed university fes. 🎓
@@ -20,8 +20,9 @@
 - Looking for opportunities and collaborations in the field of cyber security.✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
  
-  
 </p>
+
+<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
 
 <div align="center">
 
