@@ -25,10 +25,13 @@
 
 <div align="center">
 
+## **Scan Me**
+<a href="https://github.com/IlyasKadi"><img src="Images/ilyas.png" width="200" height="200" alt="WebsiteQR"></a>
+</div>
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
 
-<h2 align="left">Interests:</h2>
+<h3 align="left">Interests:</h3>
 
 - cyber security 🔐
 - Data Structures And Algorithms 💻
