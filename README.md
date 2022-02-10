@@ -81,13 +81,10 @@
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
-
-## Have a Smiley Day...😃 :<br>
-![Jokes Card](https://readme-jokes.vercel.app/api)
   
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2>Have a Smiley Day...<img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 -------
   
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
