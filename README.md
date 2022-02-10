@@ -76,10 +76,14 @@
  
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
   
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ilyas-ait-el-kadi/)
-
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ilyas.ait.el.kadi/)
-<br><br>
+<a href = 'https://www.linkedin.com/in/ilyas-ait-el-kadi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+  
+<a href = 'https://www.instagram.com/ilyas.ait.el.kadi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+  
+<a href = 'https://github.com/IlyasKadi/IlyasKadi'> <img width = '32px' align= 'center' 
+src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
+  
+<a href = 'https://github.com/IlyasKadi/IlyasKadi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  
 
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
