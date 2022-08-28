@@ -30,11 +30,11 @@
  
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
-<a href = 'https://www.linkedin.com/in/ilyas-ait-el-kadi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
-<a href = 'https://www.instagram.com/ilyas.ait.el.kadi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
-<a href = 'https://github.com/IlyasKadi/IlyasKadi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  
-<a href = 'https://github.com/IlyasKadi/IlyasKadi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://www.hackerrank.com/ilyas_ait_el_ka1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg"/></a>
+<a href = 'https://www.linkedin.com/in/ilyas-ait-el-kadi'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
+<a href = 'https://www.instagram.com/ilyas.ait.el.kadi'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+<a href = 'https://github.com/IlyasKadi/IlyasKadi'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  
+<a href = 'https://github.com/IlyasKadi/IlyasKadi'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.hackerrank.com/ilyas_ait_el_ka1'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg"/></a>
 </p>
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
