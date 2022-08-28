@@ -16,9 +16,6 @@
 
 - 📫 How to reach me **js_zouambia@esi.dz || sohaib.zouambia@studentambassadors.com**
 
-<div align="center">
-
-
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
 
