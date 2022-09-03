@@ -23,8 +23,7 @@
   
 ## **Badges🥇**<br>
 [<img src="Badges/NDG.jfif" alt="NDG Linux Unhatched" width="60" height="60"> ](https://www.netacad.com/fr/courses/os-it/ndg-linux-unhatched) 
-[<img src="Badges/image-processing-onramp.jpg" alt="" width="60" height="60"> ](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing)  
-<img src="Badges/" alt="" width="60" height="60">
+[<img src="Badges/image-processing-onramp.jpg" alt="" width="60" height="60"> ](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing)<img src="Badges/" alt="" width="60" height="60">
  
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
