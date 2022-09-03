@@ -22,8 +22,7 @@
 
   
 ## **Badges🥇**<br>
-[<img src="Badges/NDG.jfif" alt="NDG Linux Unhatched" width="60" height="60"> ](https://www.netacad.com/fr/courses/os-it/ndg-linux-unhatched)
-  
+[<img src="Badges/NDG.jfif" alt="NDG Linux Unhatched" width="60" height="60"> ](https://www.netacad.com/fr/courses/os-it/ndg-linux-unhatched) 
 [<img src="Badges/image-processing-onramp.jpg" alt="" width="60" height="60"> ](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing)
   
 <img src="Badges/" alt="" width="60" height="60">
