@@ -4,13 +4,13 @@
 
 <h1 align="center">Hey there, I'm Ilyas<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">A computer science student, cyber security and web developer passionate.</h3>
+<h3 align="center">A Cybersecurity Engineer — Penetration Tester.</h3>
 
-- 🎓 4th year @ **euromed university fes**
+- 🎓 From @ **Euromed University Of Fes**
 
 - 🔭 I’m currently working on **some cool projects**
 
-- 🌱 I’m currently learning **cyber security and more about web dev**
+- 🌱 I’m currently learning **cyber security and more about Penetration Testing**
 
 - 💬 Ask me about **anything I know. I would be glad to share what I know with you**
 
